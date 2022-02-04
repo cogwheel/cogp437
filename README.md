@@ -32,3 +32,6 @@ Added a bit of rounding to the line drawing characters.
 
 Reduced the size of `.`, `,`, `'`, `` ` ``, and `\xFA` to make things stand out from the background more in Dwarf Fortress.
 
+## License
+
+These files are released under the CC0 license. See [LICENSE](LICENSE) for details.
