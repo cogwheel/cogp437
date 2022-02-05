@@ -32,6 +32,13 @@ Added a bit of rounding to the line drawing characters.
 
 Reduced the size of `.`, `,`, `'`, `` ` ``, and `\xFA` to make things stand out from the background more in Dwarf Fortress.
 
+| cogp47\_v2\_rounded\_small\_dots samples |
+|----|
+| ![Screenshot of indoor area](samples/indoors.png) |
+| ![Screenshot of outdoor area](samples/outdoors.png) |
+| ![Screenshot of cave area](samples/caves.png) |
+| ![Screenshot of a text passage](samples/text.png) |
+
 ## License
 
 These files are released under the CC0 license. See [LICENSE](LICENSE) for details.
