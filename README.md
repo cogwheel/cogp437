@@ -6,7 +6,7 @@ Late last century, in a fit of boerdom during high school, I hand-drew a DOS cod
 
 ## Video-friendly
 
-By sheer coincidence, the 16x18 size I chose at the time is perfect for 16:9 video. The
+By sheer coincidence, the 16x18 size I chose at the time is perfect for 16:9 video. Just set your window size to a 2:1 ratio (80x40, 140x70, etc.) and it will fit.
 
 ## Variants
 
